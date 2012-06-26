@@ -1,4 +1,4 @@
 Cornerstone-Fork
 ================
 
-Can't seem to form Cornerstone, so this is a non-linked copy
+Can't seem to fork Cornerstone, so this is a non-linked copy
